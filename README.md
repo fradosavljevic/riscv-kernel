@@ -1,5 +1,10 @@
 # RISC-V Multithreaded Operating System
 
+[![architecture](https://img.shields.io/badge/architecture-RV64IMA-blue)](https://github.com/)
+[![language](https://img.shields.io/badge/language-C%++%17%2B%20assembly-blue)](https://github.com/)
+[![target](https://img.shields.io/badge/target-QEMU%20virt-orange)](https://github.com/)
+[![license](https://img.shields.io/badge/license-MIT-green)](https://github.com/)
+
 A multithreaded operating system kernel written in C++ and RISC-V assembly, developed as part of a university Operating Systems project.
 
 The project implements kernel-level thread management, preemptive scheduling, memory allocation, semaphore-based synchronization, system calls, and buffered console I/O.
