@@ -1,7 +1,7 @@
 # RISC-V Multithreaded Operating System
 
 [![architecture](https://img.shields.io/badge/architecture-RV64IMA-blue)](https://github.com/)
-[![language](https://img.shields.io/badge/language-C%++%17%2B%20assembly-blue)](https://github.com/)
+[![language](https://img.shields.io/badge/language-C%++%20%2B%20assembly-blue)](https://github.com/)
 [![target](https://img.shields.io/badge/target-QEMU%20virt-orange)](https://github.com/)
 [![license](https://img.shields.io/badge/license-MIT-green)](https://github.com/)
 
